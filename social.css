@@ -1,0 +1,59 @@
+
+  .home a {
+    display: inline-block;
+    color: rgb(255, 255, 255);
+    padding: 5px 10px;
+    text-decoration: none;
+    border-radius: 20px;
+background-color:#14073e;
+}
+.home a:hover{
+    color: red;
+    background-color: rgb(71, 39, 164);
+}
+body {
+    margin: 0;
+    font-family: "Noto Sans", serif;
+
+  }
+.card-info {
+    display: flex;
+    justify-content: space-between;
+  }
+  .card {
+    background-color: #eeeeee;
+    width: fit-content;
+    border-radius: 30px;
+  }
+  .card img {
+    border-radius: 30px 30px 0px 0px;
+  }
+  
+  .card-name a {
+    margin-right: 0;
+    padding: 0px 10px;
+    text-decoration: none;
+    color: black;
+
+  }
+
+  .card-name  :hover {
+    color: blue;
+  }
+
+  
+  .leaders-cards {
+    display: flex;
+    align-items: center;
+    padding: 20px 20px;
+    gap: 320px;
+  }
+  .footer {
+    color: rgb(255, 255, 255);
+    background-color: #14073e;
+    padding: 30px 10px;
+    display: flex;
+    justify-content: space-between;
+    margin: 0%;
+  }
+  

@@ -1,0 +1,136 @@
+body {
+  margin: 0;
+  font-family: "Noto Sans", serif;
+  background-color: rgb(7, 66, 138);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.top {
+  background-color: #14073e;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0px 18px 0px 0px;
+}
+.topwords a {
+  display: inline-block;
+  color: rgb(255, 255, 255);
+  padding: 5px 10px;
+  text-decoration: none;
+  border-radius: 20px;
+}
+.logo {
+  width: 150px;
+  border-color: red;
+  border-radius: 90px;
+}
+.topwords a:hover {
+  color: red;
+  background-color: rgb(71, 39, 164);
+}
+
+.Landingpage {
+  background-color: #14073e;
+  color: rgb(255, 255, 255);
+  display: flex;
+  justify-content: space-between;
+  padding: 30px 10px;
+  border-radius: 0px 0px 50px 50px;
+}
+
+.img-container img {
+  border-radius: 40px;
+  width: 640;
+  height: 400;
+}
+.Landingpage-left {
+  width: 500;
+}
+.words {
+  color: rgb(255, 255, 255);
+  background-color: #14073e;
+  border-radius: 40px;
+  padding: 30px 10px;
+}
+.rcimg img {
+  border-radius: 100px;
+  width: 540;
+  height: 350;
+  padding: 20px 50px;
+  padding: 30px 10px;
+  border-radius: 80px;
+}
+.races-page {
+  display: flex;
+  background-color: #14073e;
+  border-radius: 30px 30px 0px 0px;
+}
+.rc2 {
+  display: flex;
+  background-color: #14073e;
+  border-radius: 0px;
+}
+
+.rc3 {
+  display: flex;
+  background-color: #14073e;
+  border-radius: 0px;
+}
+
+.rc4 {
+  display: flex;
+  background-color: #14073e;
+  border-radius: 0px;
+}
+.rc5 {
+  display: flex;
+  background-color: #14073e;
+  border-radius: 0px;
+  justify-content: space-between;
+}
+.rc6 {
+  display: flex;
+  background-color: #14073e;
+  border-radius: 0px;
+  justify-content: space-between;
+}
+
+.rc7 {
+  display: flex;
+  background-color: #14073e;
+  border-radius: 0px;
+  justify-content: space-between;
+}
+
+.rc8 {
+  display: flex;
+  background-color: #14073e;
+  border-radius: 0px;
+  justify-content: space-between;
+}
+.rc9 {
+  display: flex;
+  justify-content: space-between;
+  background-color: #14073e;
+}
+.rc10{
+  display: flex;
+  justify-content: space-between;
+  background-color: #14073e;
+}
+.rc11{
+  display: flex;
+  justify-content: space-between;
+  background-color: #14073e;
+  
+}
+
+.footer {
+  color: rgb(255, 255, 255);
+  background-color: #14073e;
+  padding: 30px 10px;
+  display: flex;
+  justify-content: space-between;
+  margin: 0%;
+}
